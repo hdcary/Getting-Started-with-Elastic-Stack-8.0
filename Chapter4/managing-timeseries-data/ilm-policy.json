@@ -15,7 +15,7 @@ PUT _ilm/policy/logs-policy
         "actions": {}
       },
       "delete": {
-        "min_age": "10d"
+        "min_age": "10d",
         "actions": {}
       }
     }
